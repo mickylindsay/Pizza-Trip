@@ -1,0 +1,7 @@
+*.class
+desktop/bin
+*.zip
+core/build
+core/bin
+android/libs
+android/build
