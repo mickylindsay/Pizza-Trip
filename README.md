@@ -1,3 +1,7 @@
+An uncovered relic thought lost to time. After nearly 10 years, a "start of sophomore year" hackathon project turned up.
+
+There is no surviving git blame because we.. I mean they did not yet know how to utitilze source control. The authors will not be named to protect their reputation, but it is important to note that only a short few years later these students would go on to work for software companies the likes of Amazon, Google, and Apple.
+
 # Pizza-Trip
 A quick libgdx game built during hack ISU
 
